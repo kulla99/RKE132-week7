@@ -1,0 +1,15 @@
+C:\Users\pere\source\repos\week7\discauntcalculator\obj\Debug\net6.0\discauntcalculator.csproj.AssemblyReference.cache
+C:\Users\pere\source\repos\week7\discauntcalculator\obj\Debug\net6.0\discauntcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pere\source\repos\week7\discauntcalculator\obj\Debug\net6.0\discauntcalculator.AssemblyInfoInputs.cache
+C:\Users\pere\source\repos\week7\discauntcalculator\obj\Debug\net6.0\discauntcalculator.AssemblyInfo.cs
+C:\Users\pere\source\repos\week7\discauntcalculator\obj\Debug\net6.0\discauntcalculator.csproj.CoreCompileInputs.cache
+C:\Users\pere\source\repos\week7\discauntcalculator\bin\Debug\net6.0\discauntcalculator.exe
+C:\Users\pere\source\repos\week7\discauntcalculator\bin\Debug\net6.0\discauntcalculator.deps.json
+C:\Users\pere\source\repos\week7\discauntcalculator\bin\Debug\net6.0\discauntcalculator.runtimeconfig.json
+C:\Users\pere\source\repos\week7\discauntcalculator\bin\Debug\net6.0\discauntcalculator.dll
+C:\Users\pere\source\repos\week7\discauntcalculator\bin\Debug\net6.0\discauntcalculator.pdb
+C:\Users\pere\source\repos\week7\discauntcalculator\obj\Debug\net6.0\discauntcalculator.dll
+C:\Users\pere\source\repos\week7\discauntcalculator\obj\Debug\net6.0\refint\discauntcalculator.dll
+C:\Users\pere\source\repos\week7\discauntcalculator\obj\Debug\net6.0\discauntcalculator.pdb
+C:\Users\pere\source\repos\week7\discauntcalculator\obj\Debug\net6.0\discauntcalculator.genruntimeconfig.cache
+C:\Users\pere\source\repos\week7\discauntcalculator\obj\Debug\net6.0\ref\discauntcalculator.dll

@@ -1,0 +1,15 @@
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\bin\Debug\net6.0\ArgumentsANdParaments.exe
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\bin\Debug\net6.0\ArgumentsANdParaments.deps.json
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\bin\Debug\net6.0\ArgumentsANdParaments.runtimeconfig.json
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\bin\Debug\net6.0\ArgumentsANdParaments.dll
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\bin\Debug\net6.0\ArgumentsANdParaments.pdb
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\obj\Debug\net6.0\ArgumentsANdParaments.csproj.AssemblyReference.cache
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\obj\Debug\net6.0\ArgumentsANdParaments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\obj\Debug\net6.0\ArgumentsANdParaments.AssemblyInfoInputs.cache
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\obj\Debug\net6.0\ArgumentsANdParaments.AssemblyInfo.cs
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\obj\Debug\net6.0\ArgumentsANdParaments.csproj.CoreCompileInputs.cache
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\obj\Debug\net6.0\ArgumentsANdParaments.dll
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\obj\Debug\net6.0\refint\ArgumentsANdParaments.dll
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\obj\Debug\net6.0\ArgumentsANdParaments.pdb
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\obj\Debug\net6.0\ArgumentsANdParaments.genruntimeconfig.cache
+C:\Users\pere\source\repos\week7\ArgumentsANdParaments\obj\Debug\net6.0\ref\ArgumentsANdParaments.dll
